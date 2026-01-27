@@ -38,18 +38,18 @@ https://img.shields.io/badge/Status-Early%20Development-orange?style=flat
 ![Early Development](https://img.shields.io/badge/Status-Early%20Development-orange?style=flat)
 ![Experimental](https://img.shields.io/badge/Stage-Experimental-yellow?style=flat)
 ![Open Research](https://img.shields.io/badge/Research-Open-lightgrey?style=flat)
-```UNIFIED ECOSYSTEM BADGE STRIP.md
-`markdown
+UNIFIED ECOSYSTEM BADGE STRIP.md
+
 !GitDigital
 !Architecture
 !Governance
 !Security
 !Status
-```
 
-```Full Badge Set.md
 
-`markdown
+Full Badge Set.md
+
+
 !Status
 !Layer
 !Governance
@@ -61,7 +61,7 @@ https://img.shields.io/badge/Status-Early%20Development-orange?style=flat
 !Docs
 !Version
 !License
-```
+
 
 
 # STEALTH-METADATA-ARCHITECTURE
